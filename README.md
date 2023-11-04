@@ -1,5 +1,5 @@
-僅供自用
-更新於dol-0.4.3.3-chsmods-a2.0.0-besc-cheat-hp-sideviewbj-1103
+# 自用
+更新版本 dol-0.4.3.3-chsmods-a2.0.1-besc-cheat-hp-sideviewbj-1104
 
 ---
 
@@ -7,6 +7,21 @@
 <details>
 <summary>点击展开</summary>
 
+> 2023.11.04
+> - 发布 `dol-0.4.3.3-chs-alpha2.0.1` 版
+>   - 删除了悉尼承诺仪式多字 [@issue/156][issue156]
+>   - 汉化了兽性未汉化内容 [@issue/157][issue157]
+>   - 删除了神庙晋升仪式多字 [@issue/158][issue158]
+>   - 修复了成人用品店的報错 [@issue/159][issue159]
+>   - 修复了神庙回廊及态度选项报错 [@issue/161][issue161]
+>   - 改进了英语剧演出文本 [@issue/163][issue163]
+>   - 改进了黑客交谈文本 [@issue/164][issue164]
+>   - 改进了神殿忏悔室文本 [@issue/165][issue165]
+>   - 汉化了幽灵战斗文本 [@issue/166][issue166]
+>   - 修复了神殿回廊报错 [issue/167][issue167]
+>   - 修复了一些其他已知问题
+>   - 汉化了部分已知未汉化文本
+>
 > 2023.11.03
 > - 发布 `dol-0.4.3.3-chs-alpha2.0.0` 版
 >   - 修复了窥视罗宾房间报错 [@issue/144][issue144]
@@ -382,3 +397,13 @@
 [issue151]: https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization/issues/151
 [issue153]: https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization/issues/153
 [issue154]: https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization/issues/154
+[issue156]: https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization/issues/156
+[issue157]: https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization/issues/157
+[issue158]: https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization/issues/158
+[issue159]: https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization/issues/159
+[issue161]: https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization/issues/161
+[issue163]: https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization/issues/163
+[issue164]: https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization/issues/164
+[issue165]: https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization/issues/165
+[issue166]: https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization/issues/166
+[issue167]: https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization/issues/167
